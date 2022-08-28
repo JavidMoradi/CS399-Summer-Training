@@ -19,4 +19,4 @@ How to Run
   - you can find a read me regarding how to run a ReactJs project on the same directory
 - You will be presented with the webpage
 
-Please note that the used technologies' setup is assumed and neglected.
+Please note that the used technologies' setup is assumed and neglected. Also, the Spring-Boot-Testing is just a dummy experimental code to get familiarize with the workflow of Java Spring Boot.
