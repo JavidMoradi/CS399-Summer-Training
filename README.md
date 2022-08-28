@@ -11,7 +11,7 @@ How to Run
 ===
 - Open iys-project folder and find application.properties file
   - it should be located at "iys-project/src/main/resources"
-- Change the fields with [] in accordance with your PostgreSQL's configuration
+- Change the fields with [ ] in accordance with your PostgreSQL's configuration
   - choose any arbitrary secret key
 - Run the iys-front
 - Go to PostgreSQL and fill each Database tables to your liking
